@@ -5,7 +5,7 @@
   <title>Desafio 2</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../Aula 1/css/style.css">
+  <link rel="stylesheet" href="../DesafioCiclo1.2/css/style.css">
   <title>Desafio 2</title>
 </head>
 
@@ -14,7 +14,7 @@
   <header id="header-top">
      <h1 class="container">ME ACHA!</h1>
      <p class="container">encontre um endereço pelo número do CEP</p>
-     <img src="/Aula 1/img/incone" id="centralizarimg">
+     <img src="/DesafioCiclo1.2/img/incone" id="centralizarimg">
     
   </header>
   <!-- MEIO SITE  -->
